@@ -34,7 +34,8 @@ La solución implementa VLANs para separar departamentos, servicios de infraestr
 
 ## 🏗 Topología de Red
 
-> Agregar aquí una captura de pantalla de la topología.
+<img width="1082" height="698" alt="image" src="https://github.com/user-attachments/assets/3e11986c-c0e5-4b57-9a06-549a76d04613" />
+
 
 ![Topologia](images/topologia.png)
 
