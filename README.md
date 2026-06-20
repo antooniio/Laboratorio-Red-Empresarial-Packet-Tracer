@@ -124,4 +124,3 @@ Estudiante de Tecnologías de la Información enfocado en:
 - Infraestructura
 - Administración de Sistemas
 - Ciberseguridad
-- Homelabs con Proxmox
